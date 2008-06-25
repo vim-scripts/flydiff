@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2274
+
+*flydiff* is a Vim plugin to perform on-the-fly diff on the current buffer
+with some version control system and show the differences in another buffer.
+
+
+Requirements:
+- Vim 7.1.299 or later
+- Ordinary *nix shells such as bash and zsh
+
+Supported version control systems:
+- git
+
+Latest version:
+http://github.com/kana/vim-flydiff
+
+Document in HTML format:
+http://kana.github.com/config/vim/flydiff.html
